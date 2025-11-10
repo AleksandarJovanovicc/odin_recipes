@@ -8,7 +8,7 @@ The website features a main page that lists all available recipes. Each recipe h
 
 ## Technologies Used
 
-This website was created using only **HTML** (HyperText Markup Language). Key HTML elements utilized include:
+This website was created using only **HTML**. Key HTML elements utilized include:
 
 - **Ordered and Unordered Lists**: For displaying lists of ingredients and steps in the recipes.
 - **Paragraphs**: To provide descriptions and detailed instructions for each recipe.
@@ -30,4 +30,4 @@ This website was created using only **HTML** (HyperText Markup Language). Key HT
 
 ## Conclusion
 
-This project was created as a simple showcase of using basic HTML to organize and display content. I hope you find it both helpful and inspiring for your own cooking adventures!
+This project was created as a simple showcase of using basic HTML to organize and display content.
